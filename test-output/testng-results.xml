@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="12" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-02T13:50:18 EST" name="Loan" finished-at="2023-02-02T13:50:18 EST" duration-ms="677">
+    <groups>
+    </groups>
+    <test started-at="2023-02-02T13:50:18 EST" name="Personal loan" finished-at="2023-02-02T13:50:18 EST" duration-ms="83">
+      <class name="Test.day2">
+        <test-method is-config="true" signature="prerequiste()[pri:0, instance:Test.day2@50ad3bc1]" started-at="2023-02-02T13:50:18 EST" name="prerequiste" finished-at="2023-02-02T13:50:18 EST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequiste -->
+        <test-method signature="Demo()[pri:0, instance:Test.day2@50ad3bc1]" started-at="2023-02-02T13:50:18 EST" name="Demo" finished-at="2023-02-02T13:50:18 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method signature="SecondTest()[pri:0, instance:Test.day2@50ad3bc1]" started-at="2023-02-02T13:50:18 EST" name="SecondTest" finished-at="2023-02-02T13:50:18 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SecondTest -->
+        <test-method is-config="true" signature="lastexecuite()[pri:0, instance:Test.day2@50ad3bc1]" started-at="2023-02-02T13:50:18 EST" name="lastexecuite" finished-at="2023-02-02T13:50:18 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastexecuite -->
+      </class> <!-- Test.day2 -->
+      <class name="Test.day4">
+        <test-method signature="LoginAPIcarLoan()[pri:0, instance:Test.day4@223aa2f7]" started-at="2023-02-02T13:50:18 EST" name="LoginAPIcarLoan" finished-at="2023-02-02T13:50:18 EST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginAPIcarLoan -->
+        <test-method signature="MobileLogincreation()[pri:0, instance:Test.day4@223aa2f7]" started-at="2023-02-02T13:50:18 EST" name="MobileLogincreation" finished-at="2023-02-02T13:50:18 EST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLogincreation -->
+        <test-method signature="WebloginLoan()[pri:0, instance:Test.day4@223aa2f7]" started-at="2023-02-02T13:50:18 EST" name="WebloginLoan" finished-at="2023-02-02T13:50:18 EST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebloginLoan -->
+      </class> <!-- Test.day4 -->
+      <class name="Test.Day">
+        <test-method signature="Demo()[pri:0, instance:Test.Day@7690781]" started-at="2023-02-02T13:50:18 EST" name="Demo" finished-at="2023-02-02T13:50:18 EST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- Test.Day -->
+    </test> <!-- Personal loan -->
+    <test started-at="2023-02-02T13:50:18 EST" name="Car Loan" finished-at="2023-02-02T13:50:18 EST" duration-ms="25">
+      <class name="Test.day3">
+        <test-method signature="APIMobileLoginAPIcarLoan()[pri:0, instance:Test.day3@2b91004a]" started-at="2023-02-02T13:50:18 EST" name="APIMobileLoginAPIcarLoan" finished-at="2023-02-02T13:50:18 EST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIMobileLoginAPIcarLoan -->
+        <test-method signature="MobileLogincreation()[pri:0, instance:Test.day3@2b91004a]" started-at="2023-02-02T13:50:18 EST" name="MobileLogincreation" finished-at="2023-02-02T13:50:18 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLogincreation -->
+        <test-method signature="MobileLogincreationIn()[pri:0, instance:Test.day3@2b91004a]" started-at="2023-02-02T13:50:18 EST" name="MobileLogincreationIn" finished-at="2023-02-02T13:50:18 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLogincreationIn -->
+        <test-method signature="MobileLogincreationrr()[pri:0, instance:Test.day3@2b91004a]" started-at="2023-02-02T13:50:18 EST" name="MobileLogincreationrr" finished-at="2023-02-02T13:50:18 EST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLogincreationrr -->
+        <test-method signature="WebloginLoan()[pri:0, instance:Test.day3@2b91004a]" started-at="2023-02-02T13:50:18 EST" name="WebloginLoan" finished-at="2023-02-02T13:50:18 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebloginLoan -->
+      </class> <!-- Test.day3 -->
+    </test> <!-- Car Loan -->
+  </suite> <!-- Loan -->
+</testng-results>
