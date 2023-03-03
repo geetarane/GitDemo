@@ -11,7 +11,8 @@ public class FirstLogin {
 	
 	{
 		System.out.println("This is my First class ");
-		
+
+		System.out.println("This is my Secondclass ");
 	}
 	
 	waitdriver(duration)
